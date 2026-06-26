@@ -1,5 +1,5 @@
 // Code.gs
-const AUTH_KEY = "your_password_here";
+const AUTH_KEY = "V@hid1975";
 const SKIP_HEADERS = {
   host: 1, connection: 1, "content-length": 1,
   "transfer-encoding": 1, "proxy-connection": 1, "proxy-authorization": 1,
